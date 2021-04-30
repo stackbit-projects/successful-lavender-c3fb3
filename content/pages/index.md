@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Contact Me
         url: /contact
-        style: primary
+        style: secondary
         icon_position: right
       - label: lorem-ipsum
         url: '#'
